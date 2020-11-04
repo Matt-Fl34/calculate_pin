@@ -159,7 +159,6 @@ def calc_pin():
     
     start_pin = test
         
-calc_pin()    
-calc_pin()    
+
     
     
